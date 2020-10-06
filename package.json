@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/netrodslessa/pesquisa_sql#readme",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^9.3.0",
     "express": "^4.17.1"
   },
   "dependencies": {
